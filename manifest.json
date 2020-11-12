@@ -1,0 +1,23 @@
+{
+    "name": "Informasi Sepakbola",
+    "short_name": "Insep",
+    "description": "Aplikasi informasi sepakbola Liga Jerman dari Football-data.org ",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "/images/maskable_icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/maskable_icon_small.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
